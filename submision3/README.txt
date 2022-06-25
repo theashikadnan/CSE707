@@ -5,7 +5,7 @@ Two public link to the Concept Map (anyone on the internet can view without logi
 PDF: 
 https://drive.google.com/file/d/17ZUz9leGP0OnSoMwm6ljIKL9xbD-3vDv/view?usp=sharing
 Native/original format: 
-https://drive.google.com/file/d/1_Ef3Ux-KUs84gkz_AJLmhONEuVYvdvQL/view?usp=sharing
+https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Chapter%203.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1_Ef3Ux-KUs84gkz_AJLmhONEuVYvdvQL%26export%3Ddownload
 
 Name, Author, Edition, year and publisher of the Book:
 Designing Distributed Systems
