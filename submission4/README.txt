@@ -1,11 +1,11 @@
 Unlisted youtube video:
 https://www.youtube.com/watch?v=UQDT-1NlZi0
 
+Conference login link for submitted paper:
+https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICCIT2022
+
 Paper title:
 Cloud Native NoSQL Database vs SQL_Databases
-
-Overleaf link:
-https://www.overleaf.com/project/627576ac03228607840c759f
 
 Presentation Slide:
 https://docs.google.com/presentation/d/1Tg1cmFCkeFq0YIYCxD2noIXtnfRJpuTiUFKMPGDTRlE/edit?usp=sharing
